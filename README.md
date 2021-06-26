@@ -16,3 +16,5 @@ You will also see any lint errors in the console.
 
 
 pros:- for blind people , children who are suffering from dexlexyia, old people who avoid reading, save money
+
+**##USED ALAN AI**
