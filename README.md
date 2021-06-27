@@ -23,3 +23,5 @@ Link to [YOUTUBE](https://youtu.be/-eOODpSyyfc)
 ### Demo Images:
 [Image 1](https://github.com/varunverma760/ProjectSATURDAY/blob/main/project%20screen%20shot.png)  
 [Image 2](https://github.com/varunverma760/ProjectSATURDAY/blob/main/project%20screenshot%20-1.png)
+
+### PPT LINK :- https://drive.google.com/file/d/10-ArMaNAYk_2QTq4yGMuOAg_Sgjum2yp/view?usp=sharing
